@@ -1,0 +1,76 @@
+
+h1.mb-1{
+  color: whitesmoke !important;
+  text-shadow: 2px 2px #f1e5af;
+}
+
+h3.mb-5 {
+    color: whitesmoke !important;
+}
+
+h5.mb-5 {
+    color: whitesmoke !important;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+
+/* img {
+    height: 80%
+} */
+
+.btn-primary {
+    margin-top: 350px;
+    background-color: #1d809f!important;
+    border-color: #f1e5af!important;
+    color: whitesmoke !important;
+}
+
+.masthead {
+    min-height: 30rem;
+    position: relative;
+    display: table;
+    width: 100%;
+    height: auto;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 10%, rgba(255, 255, 255, 0.1) 10%), url("../img/bg-masthead.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #contact {
+    min-height: 30rem;
+    position: relative;
+    display: table;
+    width: 100%;
+    height: auto;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 50%), url("../img/iphone.jpg");
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #about h2, #about p {
+      color: #1d809f!important;
+  }
+
+  #about .btn {
+    background-color: #1d809f!important;
+    border-color: #f1e5af!important;
+    color: #fff!important;
+  }
+
+  .serv-btn {
+      margin-top: 20px;
+  }
+
+  .caption-content {
+      color:  #e9ce55!important;
+      font-weight: 600;
+
+  }

@@ -27,6 +27,10 @@ h5.mb-5 {
     color: whitesmoke !important;
 }
 
+#contact .btn-primary {
+    margin-top: 5rem;
+}
+
 .masthead {
     min-height: 30rem;
     position: relative;
